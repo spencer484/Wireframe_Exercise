@@ -1,0 +1,77 @@
+.container-1{
+  display: flex;
+  width: 1200px;
+}
+
+.container-1 div{
+  boarder: 1px #ccc solid;
+  padding: 10px;
+  width: 1000px;
+}
+
+.header{
+  display: flex;
+  background-color: gray;
+}
+
+#logo{
+  background-color: black;
+  color: lightgray;
+  text-align: center;
+  margin-left: 30px;
+  margin-right: 30px;
+}
+
+.container-2{
+  display: flex;
+  margin-left: 30px;
+  margin-top: 30px;
+  margin-bottom: 30px;
+}
+
+.container-3{
+  display: flex;
+}
+
+.mid-img-1{
+  margin-left: 30px;
+}
+.mid-img-2{
+  
+  margin-left: 30px;
+}
+.mid-img-3{
+  margin-left: 30px;
+}
+
+.container-4{
+  display: flex;
+}
+
+.low-img{
+  margin-left: 30px;
+  margin-top: 30px;
+}
+
+.paragraph{
+  text-align: left;
+  width: 450px;
+  margin-left: 20px;
+  margin-right: 50px;
+  margin-top: 10px;
+}
+
+button{
+  background-color: black;
+  color: white;
+}
+
+.footer{
+  background-color: gray;
+  width: 1000px;
+  height: 75px;
+  margin-top: 30px;
+}
+
+
+
